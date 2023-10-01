@@ -13,6 +13,3 @@
 [submodule "cRollingWindow"]
 	path = cRollingWindow
 	url = git@github.com:Haerteleric/cRollingWindow
-[submodule "cTtyTools"]
-	path = cTtyTools
-	url = git@github.com:Haerteleric/cTtyTools.git
