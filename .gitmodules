@@ -13,3 +13,9 @@
 [submodule "cRollingWindow"]
 	path = cRollingWindow
 	url = git@github.com:Haerteleric/cRollingWindow
+[submodule "cAsciiPrinter"]
+	path = cAsciiPrinter
+	url = git@github.com:Haerteleric/cAsciiPrinter.git
+[submodule "cAsciiParser"]
+	path = cAsciiParser
+	url = git@github.com:Haerteleric/cAsciiParser.git
