@@ -1,0 +1,15 @@
+[submodule "cCli"]
+	path = cCli
+	url = git@github.com:Haerteleric/cCli.git
+[submodule "cLinkedList"]
+	path = cLinkedList
+	url = git@github.com:Haerteleric/cLinkedList
+[submodule "cFirFilter"]
+	path = cFirFilter
+	url = git@github.com:Haerteleric/cFirFilter
+[submodule "cFifo"]
+	path = cFifo
+	url = git@github.com:Haerteleric/cFifo
+[submodule "cRollingWindow"]
+	path = cRollingWindow
+	url = git@github.com:Haerteleric/cRollingWindow
